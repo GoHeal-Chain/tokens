@@ -1,0 +1,14 @@
+{
+    "name": "Fantom Mainnet",
+    "timestamp": "2022-08-15T10:17:25",
+    "tokens": [
+        {
+            "chainId": 250,
+            "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+            "name": "Wrapped FTM",
+            "symbol": "WFTM",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xc836d8dC361E44DbE64c4862D55BA041F88Ddd39/logo.png"
+        }
+    ]
+}
